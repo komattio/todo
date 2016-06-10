@@ -19,7 +19,7 @@ export default class TaskForm extends React.Component {
         <div className="input-group">
           <input type="text" className="form-control" placeholder="ToDo" ref="content" />
           <span className="input-group-btn">
-            <input type="submit" className="btn btn-primary" value="registration" />
+            <input type="submit" className="btn btn-primary" value="登録" />
           </span>
         </div>
       </form>
